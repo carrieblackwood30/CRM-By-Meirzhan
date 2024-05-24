@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "appwrite",
+        "clsx",
+        "kanban",
+        "merizhan",
+        "nuxtjs",
+        "pinia",
+        "Slideover"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:crm-system}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    }
+}
